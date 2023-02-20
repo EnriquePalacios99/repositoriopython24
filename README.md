@@ -1,5 +1,5 @@
 # Repositorio de proyectos y cursos con Python
-Repositorio de cursos y proyectos relacionados con Python
+Esta es la lista de los repositorios de cursos y proyectos relacionados con Python. Puedes revisarlos y espero que sean de utilidad en tus futuras investigaciones o como aprendizaje. 
 
 ## Proyectos 🛠️
 
