@@ -1,4 +1,4 @@
-# repositoriopython24
+# Repositorio de proyectos y cursos con Python
 Repositorio de cursos y proyectos relacionados con Python
 
 
